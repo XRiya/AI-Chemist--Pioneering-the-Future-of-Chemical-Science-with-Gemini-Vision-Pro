@@ -1,0 +1,6 @@
+streamlit               # Framework for building interactive web applications
+streamlit-extras        # Additional utilities and enhancements for Streamlit
+google-generativeai     # Client library for accessing GenerativeAI API, like Gemini Pro
+python-dotenv           # For managing environment variables from a .env file
+PyPDF2                  # For extracting text and manipulating PDF documents
+Pillow                  # Imaging library for opening, manipulating, and saving image files
